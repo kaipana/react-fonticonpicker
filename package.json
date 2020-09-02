@@ -1,6 +1,6 @@
 {
-  "name": "@fonticonpicker/react-fonticonpicker",
-  "version": "1.2.0",
+  "name": "@kaipana/react-fonticonpicker",
+  "version": "1.2.2",
   "description": "A react component to show a picker element to select font icons or SVG.",
   "main": "dist/fonticonpicker.react.js",
   "directories": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fontIconPicker/react-fonticonpicker.git"
+    "url": "git+https://github.com/kaipana/react-fonticonpicker.git"
   },
   "keywords": [
     "react",
@@ -27,9 +27,9 @@
   "author": "Swashata Ghosh <swashata4u@gmail.com> (https://swashata.me)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fontIconPicker/react-fonticonpicker/issues"
+    "url": "https://github.com/kaipana/react-fonticonpickerissues"
   },
-  "homepage": "https://github.com/fontIconPicker/react-fonticonpicker#readme",
+  "homepage": "https://github.com/kaipana/react-fonticonpicker#readme",
   "peerDependencies": {
     "react": "^16.3.0",
     "react-dom": "^16.3.0",
